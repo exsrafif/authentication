@@ -1,4 +1,4 @@
-# vuexlogin
+# authentication
 
 ## Project setup
 ```
